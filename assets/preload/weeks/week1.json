@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Angel", "knucks", [255, 0, 0]],
+		["Knuckle Up", "knucks", [255, 0, 0]],
+		["Scrambled", "knucks", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"knucks",
+		"bf-pixel",
+		"gf-pixel"
+	],
+	"weekBackground": "angel",
+
+	"storyName": "Knuckles",
+	"weekBefore": "",
+	"weekName": "Angel Island Zone",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
